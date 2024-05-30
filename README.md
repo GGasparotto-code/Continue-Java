@@ -1,4 +1,4 @@
-# Continue-Java
+# ▶️ Continue-Java
 Este repositório contém um exemplo de uso da instrução `continue` em Java. A instrução `continue` é usada para pular a iteração atual em um loop e continuar com a próxima iteração.
 
 ## Estrutura do Projeto
